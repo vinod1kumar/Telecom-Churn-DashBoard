@@ -1,2 +1,3 @@
 # Telecom-Churn-DashBoard
-<img width="638" alt="image" src="https://github.com/vinod1kumar/Telecom-Churn-DashBoard/assets/105383284/309cda9d-abd8-4b6a-978e-dbe800bc666f">
+<img width="849" alt="image" src="https://github.com/vinod1kumar/Telecom-Churn-DashBoard/assets/105383284/22344305-b26e-4e26-95dd-8ee377108bdb">
+
